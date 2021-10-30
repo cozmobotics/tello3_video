@@ -56,5 +56,6 @@ Please refer to the source code to see more controls of the gamepad you can use.
 * Blue and red messages from ffmpeg 
 * Occasional error messages, but it seems to work 
 * Ending the program with keyboard and gamepad as described above 
+* Responses from Tello are not always displayed. 
 
 # Have fun, I hope you enjoy flying and filming 
